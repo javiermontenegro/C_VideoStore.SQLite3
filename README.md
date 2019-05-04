@@ -31,12 +31,8 @@ $ make install
 // username: admin 
 // password: 12345 
 
-$ ./book
+$ ./video
 ```
-## Deployment
-
-In order to get book running with your username, password, and separate
-file make sure to follow the pattern in credentials.txt
 
 ## Built With
 
