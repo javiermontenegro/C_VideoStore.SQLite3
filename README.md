@@ -12,6 +12,12 @@ generate documentation. If you're using Windows system you may need to
 install cygwin and use its package manager to install the aforementioned
 tools.
 
+### SQLite3 requirements
+```
+$ sudo apt-get update
+$ sudo apt-get install sqlite3 libsqlite3-dev
+```
+
 ### Installing
 
 The installation process is fairly simple once the prerequisite tools have
