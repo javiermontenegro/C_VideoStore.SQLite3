@@ -4,13 +4,6 @@
 This project is a implementation of a video store in ANSI C with SQLite3
 licensed under the permissive MIT license.
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/javiermontenegro/C_VideoStore.SQLite3/master/screenshot.png"
-  alt="C_VideoStore.SQLite3" width="686" height="385">
-</p>
-
-
 ### Prerequisites
 
 In order to be able to install customer you will need following software:
